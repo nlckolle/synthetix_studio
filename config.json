@@ -1,0 +1,5 @@
+{
+  "backup_dir": "./backups/",
+  "log_dir": "./logs/",
+  "api_url": "https://api.synthetix.ai/v1/analyze"
+}
